@@ -5,3 +5,5 @@ Delete old bin file in your server folder and extract this bin file to Your serv
 
 ไทย:
 ลบไฟล์Binเก่าในโฟลเดอร์เซิฟก่อนแล้วนำไฟล์Binที่อยู่ในนี้ไปวางในโฟลเดอร์เซิฟ
+
+#Pocketmine
